@@ -1,0 +1,14 @@
+# Ignore Eclipse project files
+*.class
+*.log
+*.swp
+*.tmp
+*.bak
+*.orig
+*.rej
+*~ 
+.project
+.classpath
+.settings/
+bin/
+target/
